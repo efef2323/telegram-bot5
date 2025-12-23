@@ -1,0 +1,7 @@
+chromium-chromedriver
+chromium-browser
+tesseract-ocr
+tesseract-ocr-rus
+libtesseract-dev
+libjpeg-dev
+zlib1g-dev
