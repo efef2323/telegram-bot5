@@ -4,3 +4,4 @@ requests==2.31.0
 numpy==1.24.3
 yfinance==0.2.33
 aiohttp==3.9.1
+Pillow==9.5.0
